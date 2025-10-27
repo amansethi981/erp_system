@@ -18,3 +18,9 @@ PORT=3000
 run this command in my sql 
 INSERT INTO companies (name) VALUES ('ABC Pvt Ltd')
 INSERT INTO roles (id, name) VALUES (1, 'CA'), (2, 'Manager'), (3, 'Finance')
+
+For running the project
+1. You can create company admin manually
+2. You can create a user with role and company
+3. all payload attached in collection via email
+s
